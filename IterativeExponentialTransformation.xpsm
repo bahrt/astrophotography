@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+********************************************************************
+PixInsight XML Process Serialization Module - XPSM 1.0
+********************************************************************
+Generated on 2021-02-24T22:55:33.368Z
+PixInsight Core 01.08.05.1353 (x64)
+Copyright (c) 2003-2017 Pleiades Astrophoto
+********************************************************************
+-->
+<xpsm version="1.0" xmlns="http://www.pixinsight.com/xpsm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pixinsight.com/xpsm http://pixinsight.com/xpsm/xpsm-1.0.xsd">
+   <instance class="Script" id="IterativeExpoTransf_instance">
+      <time start="2021-02-24T22:54:29.614Z" span="0.7425806"/>
+      <parameter id="filePath">[PATH_TO_CODE]/iterativeExponentialTransformations.js</parameter>
+      <parameter id="md5sum"></parameter>
+      <table id="parameters" rows="0"/>
+   </instance>
+   <icon id="IterativeExpoTransf" instance="IterativeExpoTransf_instance" xpos="1430" ypos="501" workspace="Workspace01"/>
+</xpsm>
